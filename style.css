@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    margin: 30px;
+    background-color: antiquewhite;
+}
+
+#profile__container {
+    max-width: 300px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 7px;
+    margin: 0 auto;
+    padding: 7px;
+}
+
+#profile__image {
+    width: 100%;
+}
+
+#profile__name {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
